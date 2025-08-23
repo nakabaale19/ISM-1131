@@ -5,7 +5,16 @@
 <meta name="viewport"content "width device=100" "initial scale=1.0">
 <title>my github page</tile>
 <body>
-<h1>"my presentation"</h1>
-<p>"Am here by presenting my first html web page"</p>
+<h1>"Welcome to My Github Page"</h1>
+<p>"This is my webpage hosted on Github Pages"</p>
+  <h2>About Me</h2>
+  <p>I am a student learning how to create webpages using Github</p>
+  <h3>My projects</h3>
+  <p>Project</p>
+  <a href="https://github.com/<nakabaale>/<project 1-repo>;">click here</a>
+   <a href="https://github.com/<nakabaale>/<project 2-repo>;">click here</a>
+  <h3>Contact</h3>
+  <p>You can reach me at</p>
+  <a href="nakslondon@gmail.com">my email</a>
 </body>
 </html>
